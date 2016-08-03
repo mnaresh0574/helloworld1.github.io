@@ -1,2 +1,2 @@
 Hello World 
-This is a simple git program
+This is a simple github program
